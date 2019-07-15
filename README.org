@@ -81,7 +81,7 @@ favors small complexity models, which could mean that the task is very simple.
     shown that neurons of a well learned model tends to have more meaning
     compared to random orthogonal basis in the representation space (to cite). 
 
-    The cleverness of ID lies in the fact that it abondoned trying to look at
+    The cleverness of ID lies in the fact that it abandoned trying to look at
     individual neurons because they are just arbitrary basis for the
     representation space. If we have interpretable dimensions to use as basis,
     the explanation should be clearer.
